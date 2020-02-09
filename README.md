@@ -6,3 +6,8 @@ Language used : Java and sql
 # Requirements :
 OracleXE or later versions, 
 JAVA 8.0 or later versions
+
+# Installation :
+Clone/Download the project
+Extract the zip file
+run login.java
