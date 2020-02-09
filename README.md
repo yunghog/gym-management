@@ -4,5 +4,5 @@ Gym Management is an application which can be implemented in a gym. Manager will
 Language used : Java and sql
 
 # Requirements :
-OracleXE or later versions
+OracleXE or later versions, 
 JAVA 8.0 or later versions
